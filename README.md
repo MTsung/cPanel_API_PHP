@@ -6,3 +6,6 @@
 * 新增資料庫 : addDatabase
 * 新增別名 : addAliasDomain
 * 安裝SSL : installSsl
+
+### License
+[MIT license](https://opensource.org/licenses/MIT)
