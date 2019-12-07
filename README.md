@@ -1,4 +1,4 @@
-## 自己常用的 cpanel api 分享
+## 自己常用的 cPanel api 分享
 * 取得頻寬 : getBandwidth
 * 新增 email 使用者 : addEmailUser
 * 新增附加網域 : addAddonDomain
